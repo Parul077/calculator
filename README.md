@@ -1,6 +1,6 @@
 # Calculator 🔢
 
-##### I have this calculator by using HTML, CSS and JavaScript. It can perform arithmatic operations like addition ➕, subtraction ➖, multiplication ✖️, division ➗.
+##### I have created this calculator by using HTML, CSS and JavaScript. It can perform arithmatic operations like addition ➕, subtraction ➖, multiplication ✖️, division ➗.
 
 ![Screenshot (177)](https://github.com/Parul077/calculator/assets/123081808/239835a9-1d47-4b7f-b2d8-3bc8d09c8567)
 ![Screenshot (178)](https://github.com/Parul077/calculator/assets/123081808/02744ffa-61a9-4a50-bb39-e2ac4a1cdb45)
